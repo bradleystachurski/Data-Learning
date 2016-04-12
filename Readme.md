@@ -22,9 +22,13 @@ Also, before going deeper in the world of online learning resources, it's timely
 > 1) There's the highly-technical engineer. Someone who is knowledgeable and skilled enough to select the correct tools and infrastructure in the polluted big-data landscape to solve a specific, highly-technical data problem. Often these folks are working on problems that haven't been solved before or if they have there are only a few poorly documented examples. Because these tasks might not even be solvable, they're certainly not "well-defined." A business wouldn't trust important bits of infrastructure to $30/hr.
 >
 > 2) There's the data scientist as communicator/translator. This person is someone who knows data science techniques intimately but whose strength is actually in the nontechnical -- this person thrives on taking an ambiguous business situation and distilling it into a data science solution. Often managers and executives don't know what's possible. They know what problems they have, but they don't know how or even if data science can solve those problems. These folks can't hire someone halfway across the globe at $30/hr to figure that out for them. No, they need someone who's deeply technical but also deeply personable in the office to talk things through with them and guide them.
+>
 > ...
+>
 > A data scientist is not someone putting doors on an automobile in a factory. Some of them might be doing just that, i.e. rote modeling tasks. But not all of them. **I believe that MOOCs will excel at teaching up an army of these lower-paid data scientists**. And that's great. They'll fill a need.
+>
 > ...
+>
 > However, there will always be a place for those who excel at solving ambiguous technological & business problems. And they'll cost more than $30/hr.
 
 What this curriculum won't cover are the soft skills, but that's not to undermine their importance. In fact, they might multiple times more important than the hard skills. I'm not the first to point this out. From Dale Carnegie's *How to Win Friends and Influence People*, a book published October 1936:
