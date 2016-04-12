@@ -1,5 +1,5 @@
 ## Data Learning ##
-The aim of this repository is to structure the curriculum for my self learning process for data science. I'm coming into this with a background in applied mathematics, finance, and programming. Some of the curriculum will be a refresher while other areas will be completely new.
+The aim of this repository is to structure the curriculum for my self learning process for data science. I'm coming into this with a background in applied mathematics, finance, and programming. Some of the curriculum will be a refresher while other areas will be completely new. This is not meant to be a comprehensive guide for the complete beginner. It's simply me publishing the route I'm taking while getting my thoughts in writing. YMMV
 
 Before diving into the curriculum I want to quote John Foreman,  the Chief Data Scientist for MailChimp.com. From his blog post [Don't Forget the "What" and "Why" in Big Data](http://www.john-foreman.com/blog/dont-forget-the-what-and-why-in-big-data):
 
@@ -27,6 +27,8 @@ Also, before going deeper in the world of online learning resources, it's timely
 > ...
 > However, there will always be a place for those who excel at solving ambiguous technological & business problems. And they'll cost more than $30/hr.
 
-What this curriculum won't cover are the soft skills, but that's not to undermine their importance. In fact, they might be quite a bit more important than the hard skills. I'm not the first to point this out. From Dale Carnegie's *How to Win Friends and Influence People*, a book published October 1936:
+What this curriculum won't cover are the soft skills, but that's not to undermine their importance. In fact, they might multiple times more important than the hard skills. I'm not the first to point this out. From Dale Carnegie's *How to Win Friends and Influence People*, a book published October 1936:
 
 > Research done a few years ago under the auspices of the Carnegie Foundation for the Advancement of Teaching uncovered a most important and significant fact -- a fact later confirmed by the additional studies made at the Carnegie Institute of Technology. These investigations revealed that even in such technical lines as engineering, **about 15 percent of one's financial success is due to one's technical knowledge and about 85 percent is due to skill in human engineering** -- to personality and the ability to lead people.
+
+Keep this in mind while going down the technical rabbit hole. The technical skills are only a small part of the equation. Remember that you're ultimately learning a skill set that serves a business function. Your goal is to improve the product and to improve the user experience. Keep this in mind before you begin down the path of learning Hadoop, R, scikitlearn, etc. It’s fun to play with the tools. Enjoy the sandbox. ***But if you’re serious about being successful with data science, remember to improve the product and improve the user experience. Remember the What and the Why you’re doing the work***. This is the most important step to building a good foundation for a successful career in data science.
