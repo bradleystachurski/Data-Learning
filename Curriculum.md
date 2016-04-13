@@ -5,4 +5,4 @@
 	 - Pair with John's Blog Posts
 		 - http://www.john-foreman.com/blog
 		 - http://analyticsmadeskeezy.com/blog/
-	 
+ 2. Introduction to the Theory of Computation 2nd Edition
