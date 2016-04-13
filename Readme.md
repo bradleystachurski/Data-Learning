@@ -1,4 +1,6 @@
 ## Data Learning ##
+[Curriculum](http://bit.ly/1Xw0Gtg)
+
 The aim of this repository is to structure the curriculum for my self learning process for data science. I'm coming into this with a background in applied mathematics, finance, and programming. Some of the curriculum will be a refresher while other areas will be completely new. This is not meant to be a comprehensive guide for the complete beginner. It's simply me publishing the route I'm taking while getting my thoughts in writing. YMMV
 
 Before diving into the curriculum I want to quote John Foreman,  the Chief Data Scientist for MailChimp.com. From his blog post [Don't Forget the "What" and "Why" in Big Data](http://www.john-foreman.com/blog/dont-forget-the-what-and-why-in-big-data):
